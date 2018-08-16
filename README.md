@@ -1,2 +1,3 @@
-# rx-command
-Reactive commands
+# Memento
+
+Library showing the software design pattern 'memento'
